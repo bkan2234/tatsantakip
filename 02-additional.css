@@ -1,0 +1,4 @@
+
+.tatsan-group-switch{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:16px;padding:12px;border:1px solid var(--border,#dce2e9);border-radius:10px;background:var(--card,#fff)}
+.tatsan-group-switch label{font-weight:700}
+.tatsan-group-switch select{min-width:230px;padding:9px;max-width:100%}
